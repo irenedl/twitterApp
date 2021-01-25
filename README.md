@@ -1,6 +1,4 @@
 # twitterApp
-An application to tweet learning docker or kubernetes
-
 This is very simple NGINX website that allows a user to send a tweet. 
 
 It's mostly used as a sample application for Docker or Kubernetes.
